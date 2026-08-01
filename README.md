@@ -2,6 +2,15 @@
 
 A desktop-based Online Examination System built with Python (Tkinter) for the GUI and SQL for database management. This project allows students to register, log in, and take timed exams on various subjects, while admins can manage students and view results.
 
+1.
+![image alt](https://github.com/gagandeep399/Online-Exam-System/blob/7bfa98573018d97d8c0208938f56750c8d3b3909/image%201.png)
+2.
+![image alt](https://github.com/gagandeep399/Online-Exam-System/blob/7bfa98573018d97d8c0208938f56750c8d3b3909/image%202.png)
+3.
+![image alt](https://github.com/gagandeep399/Online-Exam-System/blob/7bfa98573018d97d8c0208938f56750c8d3b3909/image%203.png)
+4.
+![image alt](https://github.com/gagandeep399/Online-Exam-System/blob/7bfa98573018d97d8c0208938f56750c8d3b3909/image%204.png)
+
 🎯 FEATURES
 
 - User Authentication – Separate login for Students and Admin
@@ -42,7 +51,4 @@ Username: admin
 Password: admin123
 
 👤 AUTHOR
-
-Gagandeep
-
-Made with ❤️ using Python & Tkinter
+# Gagandeep
